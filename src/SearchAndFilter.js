@@ -29,7 +29,7 @@ const SearchAndFilter = () => {
                         
                         outline-DVeryDarkBlue
                         "
-						placeholder="John"
+						placeholder="Search"
 						value={search}
 						onChange={(e) => SearchChanged(e)}
 						required
